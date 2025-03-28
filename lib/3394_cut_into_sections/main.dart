@@ -1,3 +1,4 @@
+/// https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/?envType=daily-question
 
 main() {
   final res = [
